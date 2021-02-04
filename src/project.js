@@ -1020,9 +1020,33 @@ window.__require = function e(t, n, o) {
           }).union().repeatForever().start()
         }, t.prototype.update = function (e) {
         }, t.prototype.adsButtonFunc2 = function () {
+<<<<<<< HEAD
           window.location.href = "http://chinaden.cn/meng_k/products_pic/image/2017081020050894894.jpg"
         }, t.prototype.bannerButtonFunc = function () {
           window.location.href = "http://chinaden.cn/meng_k/products_pic/image/2017081020050894894.jpg"
+=======
+<<<<<<< HEAD
+          window.location.href = "https://cloud.xitek.com//pics/202102/102788/10278850/10278850_1612406078448.jpg"
+        }, t.prototype.bannerButtonFunc = function () {
+          window.location.href = "https://cloud.xitek.com//pics/202102/102788/10278850/10278850_1612406078448.jpg"
+=======
+<<<<<<< HEAD
+          window.location.href = "https://cloud.xitek.com//pics/202102/102788/10278850/10278850_1612406078448.jpg"
+        }, t.prototype.bannerButtonFunc = function () {
+          window.location.href = "https://cloud.xitek.com//pics/202102/102788/10278850/10278850_1612406078448.jpg"
+=======
+<<<<<<< HEAD
+          window.location.href = "https://cloud.xitek.com//pics/202102/102788/10278850/10278850_1612406078448.jpg"
+        }, t.prototype.bannerButtonFunc = function () {
+          window.location.href = "https://cloud.xitek.com//pics/202102/102788/10278850/10278850_1612406078448.jpg"
+=======
+          window.location.href = "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/28652a78-a3c4-4954-b946-8da6e1631515.png"
+        }, t.prototype.bannerButtonFunc = function () {
+          window.location.href = "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/28652a78-a3c4-4954-b946-8da6e1631515.png"
+>>>>>>> e0c75b562cf2104e2522ba8fff5c5a90419b6dc2
+>>>>>>> b8e719246760fe18857a57d91403f882a1d10b89
+>>>>>>> 2c49902d67a0ea1d85b2f9674846e97dbd96469c
+>>>>>>> 5278f4a23d5da65ca6241dea0248f14efe47c38c
         }, t.prototype.ShowFailedUi = function (e, t) {
           var n = this;
           this.scheduleOnce(function () {
@@ -1984,7 +2008,23 @@ window.__require = function e(t, n, o) {
         }, t.prototype.update = function (e) {
           this.UpdateScoreLabel(e), this.lerpCtrl && this.lerpNumFunc(this.passlevelYQ), this.levelPanel.children[1].getComponent(cc.Label).string = s.default.Instance.GetLevel().toString()
         }, t.prototype.adsButtonFunc = function () {
+<<<<<<< HEAD
           window.location.href = "http://chinaden.cn/meng_k/products_pic/image/2017081020050894894.jpg";
+=======
+<<<<<<< HEAD
+          window.location.href = "https://cloud.xitek.com//pics/202102/102788/10278850/10278850_1612406078448.jpg";
+=======
+<<<<<<< HEAD
+          window.location.href = "https://cloud.xitek.com//pics/202102/102788/10278850/10278850_1612406078448.jpg";
+=======
+<<<<<<< HEAD
+          window.location.href = "https://cloud.xitek.com//pics/202102/102788/10278850/10278850_1612406078448.jpg";
+=======
+          window.location.href = "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/28652a78-a3c4-4954-b946-8da6e1631515.png";
+>>>>>>> e0c75b562cf2104e2522ba8fff5c5a90419b6dc2
+>>>>>>> b8e719246760fe18857a57d91403f882a1d10b89
+>>>>>>> 2c49902d67a0ea1d85b2f9674846e97dbd96469c
+>>>>>>> 5278f4a23d5da65ca6241dea0248f14efe47c38c
         }, t.prototype.TestPasslevel = function () {
           var e = this;
           this.lerpCtrl = !0, this.nowYQ >= this.passlevelYQ && (this.levelPanel.children[2].runAction(cc.sequence(cc.delayTime(1.3), cc.callFunc(function () {
